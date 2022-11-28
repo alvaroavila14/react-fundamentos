@@ -1,0 +1,12 @@
+.hijo {
+    border: 1px solid blue;
+}
+
+.padre {
+    border: 1px solid red;
+}
+
+.box {
+    border-radius: 3px;
+    padding: 1em;
+}

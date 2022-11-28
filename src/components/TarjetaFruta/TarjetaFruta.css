@@ -1,0 +1,14 @@
+.tarjetaFruta {
+    border: 1px solid black;
+    margin-Bottom: 2em;
+    border-radius: 1em;
+    padding: 1em;
+    background: #FFF;
+    color: #000;
+    transition: all 400ms ease-in-out;
+}
+
+.tarjetaFruta-active {
+    color: #FFF;
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+}
